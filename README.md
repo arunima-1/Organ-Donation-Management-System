@@ -5,11 +5,17 @@ For this reason we came up with an organ donation management system which will a
 
 Initial Modules:
 >SignUp
+
 >Login
+
 >Home
+
 >City choice
+
 >Availability of organs in particular city
+
 >Donate/Ask for organs
+
 >Exit
 
 ![Screenshot 2022-09-01 205253](https://user-images.githubusercontent.com/112641384/187951910-59fbfcd8-d062-4b38-9ec4-f83067cd9833.png)
